@@ -1,0 +1,6 @@
+{
+  "name": "Mantiqiy Savollar Testi",
+  "description": "50 ta mantiqiy va qiziqarli savollardan iborat test. Har bir savolga 20 soniya beriladi. 10 ta yoki undan ko'p to'g'ri javob topsangiz, muvaffaqiyatli o'tasiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
